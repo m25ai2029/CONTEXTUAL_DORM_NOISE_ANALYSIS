@@ -1,0 +1,9 @@
+# Experiment 4 and 5 — Hindi and English contextual surprisal, DORM and noise analysis
+# Compatible with Python >= 3.10; Python 3.11 (64-bit) is recommended.
+# Direct third-party imports in the nine provided Python scripts:
+numpy>=1.26,<3
+pandas>=2.0,<3
+matplotlib>=3.7,<4
+scipy>=1.11,<2
+# Standard-library modules (argparse, csv, gzip, json, math, pickle, pathlib,
+# random, collections, dataclasses, typing, etc.) need no pip installation.
